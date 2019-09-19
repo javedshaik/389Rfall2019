@@ -18,7 +18,8 @@ You have been hired by a penetration testing firm and have been asked to collect
 
 Write up a pretext that you would use to social engineer this information out of Eric Norman. What approach would you take and how would you present yourself to elicit this information under the radar? Use the slides and what we covered in lecture to come up with a plan to obtain this information.
 
-```In order to elicit this information under the radar I would chose the most famous techniques of social engineering, pretext and elictation. In this case we are focusing on writing a pretext. The approach I would take is send an email or make a phone call pretending to be a doctors office nurse of Eric Norman's mother. 
+```
+In order to elicit this information under the radar I would chose the most famous techniques of social engineering, pretext and elictation. In this case we are focusing on writing a pretext. The approach I would take is send an email or make a phone call pretending to be a doctors office nurse of Eric Norman's mother. 
 
 Pretext:
 My email to Eric Norman or a phone call:
