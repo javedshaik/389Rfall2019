@@ -26,6 +26,7 @@ Digital acknowledgement: *PUT YOUR NAME HERE*
 `They left behind a greetz.fpff file on the server`
 7. What is a countermeasure to prevent this kind of intrusion from happening again? Note: disabling the vulnerable service is not an option.
 `To pevent this, one can detect open ports on their network and close them`
+`One can also use a firewall to block ports`
 ### Part 2 (55 Pts)
 
 
